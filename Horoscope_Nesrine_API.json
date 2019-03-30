@@ -1,0 +1,86 @@
+[
+ {
+   "Sign": "Aries",
+   "Begin": "21 Mars",
+   "End": "20 Avril",
+   "url": "https://www.icone-png.com/png/42/41880.png",
+   "Description": "De nature impétueuse, vous avancez tambour battant, sans même vous retourner... Passant facilement des idées à l'action et canalisant votre énergie de manière très efficace, vous savez très bien revendiquer vos opinions."
+ },
+ {
+   "Sign": "Taurus",
+   "Begin": "21 Avril",
+   "End": "21 Mai",
+   "url": "https://www.icone-png.com/png/42/41889.png",
+   "Description": "Vous aimez les choses simples et profitez des plaisirs de l’existence simplement. Vous avez tendance à fuir l'agitation et aspirez au calme et à la tranquillité."
+ },
+ {
+   "Sign": "Gemini",
+   "Begin": "22 Mai",
+   "End": "21 Juin",
+   "url": "https://www.icone-png.com/png/42/41878.png",
+   "Description": "Plutôt curieux, vous avez soif de connaissances et avez parfois le sentiment de manquer de temps pour découvrir tout ce que vous souhaitez. Votre curiosité est votre atout majeur."
+ },
+ {
+   "Sign": "Cancer",
+   "Begin": "22 Juin",
+   "End": "22 Juillet",
+   "url": "https://www.icone-png.com/png/42/41875.png",
+   "Description": "Romantique, vous êtes aussi très sensible et écoutez avant tout vos sentiments, votre monde émotionnel riche s’émerveille aisément. Vous adorez créer mais c’est aussi dans les valeurs familiales que vous trouvez votre épanouissement. "
+ },
+ {
+   "Sign": "Leo",
+   "Begin": "23 Juillet",
+   "End": "23 Août",
+   "url": "https://www.icone-png.com/png/42/41892.png",
+   "Description": "Vous avez ce besoin continuel de régner sur votre milieu et de vous faire remarquer ! Vous dégagez une indescriptible aura qui attire le regard. Votre personnalité chaleureuse, généreuse est plutôt dominante et autoritaire.."
+ },
+ {
+   "Sign": "Virgo",
+   "Begin": "24 Août",
+   "End": "23 Septembre",
+   "url": "https://www.icone-png.com/png/42/41872.png",
+   "Description": "Vous êtes une personne méthodique, critique et autocritique, très ancrée dans le présent, le passé et le futur vous intéressent peu. Vous cherchez toujours à vous rendre utile mais parfois, vous vous perdez dans des détails."
+ },
+ {
+   "Sign": "Libra",
+   "Begin": "24 Septembre",
+   "End": "23 Octobre",
+   "url": "https://www.icone-png.com/png/42/41870.png",
+   "Description": "Vous avez un charme ravageur et discret, et le must, c’est que vous ne le faites même pas exprès ! Vous attirez le regard comme l’intérêt, on a envie de se confier à vous mais votre sens aigu de la justice peut vous fait sortir de vos gonds en un instant."
+ },
+ {
+   "Sign": "Scorpio",
+   "Begin": "24 Octobre",
+   "End": "22 Novembre",
+   "url": "https://www.icone-png.com/png/42/41881.png",
+   "Description": "Votre esprit est avant tout rebelle, anti conformiste et critique. Votre instinct vous pousse à vous exprimer avec passion et à vivre intensément vos émotions. Vous avez un désir violent d'aller au fond des choses."
+ },
+ {
+   "Sign": "Sagittarius",
+   "Begin": "23 Novembre",
+   "End": "21 Décembre",
+   "url": "https://www.icone-png.com/png/42/41886.png",
+   "Description": "Votre personnalité particulièrement expansive ne connaît aucune limite ni aucune contrainte. Fervent défenseur de l’épicurisme, vous plongez à pieds joints dans tous les plaisirs."
+ },
+ {
+   "Sign": "Capricorn",
+   "Begin": "22 Décembre",
+   "End": "20 Janvier",
+   "url": "https://www.icone-png.com/png/42/41884.png",
+   "Description": "Souvent mûr avant votre âge, vous êtes d’une logique implacable et votre raisonnement vous guide davantage que votre intuition. Votre lucidité et votre ténacité vous aident en tout mais souvent l’idée de changement vous déplaît."
+ },
+ {
+   "Sign": "Aquarius",
+   "Begin": "21 Janvier",
+   "End": "18 Février",
+   "url": "https://www.icone-png.com/png/42/41887.png",
+   "Description": "votre personnalité est toute tournée vers la notion de liberté. Adaptable aux circonstances les plus variées, vous êtes un être original, curieux, anticonformiste mais parfois imprévisible et opportuniste"
+ },
+ {
+   "Sign": "Pisces",
+   "Begin": "19 Février",
+   "End": "20 Mars",
+   "url": "https://www.icone-png.com/png/42/41876.png",
+   "Description": "Vous êtes une personne un brin rêveuse et très intuitive . Vous comprenez les autres mieux que quiconque, ce qui fait de vous une personne très généreuse mais aussi anxieuse. Votre idéalisme et votre adaptabilité font de vous un être insaisissable et envoûtant."
+ }
+]
